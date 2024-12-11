@@ -8,7 +8,7 @@ The main objective of the project was to integrate machine learning models withi
 
 # Work Description
 
-I designed and implemented a Python package that provides machine learning methods integrated into SQL. Specifically, four machine learning algorithms were integrated, each with its own dedicated module:
+I designed and implemented a Python package that provides machine learning methods integrated into DBMS. Specifically, four machine learning algorithms were integrated, each with its own dedicated module:
 
 - **K-nearest neighbors (KNN)**
 - **Decision tree**
