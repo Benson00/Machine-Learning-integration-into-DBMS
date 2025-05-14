@@ -3,7 +3,6 @@
 The main objective of the project was to integrate machine learning models within an SQL environment, ensuring performance. This approach would enable predictive analysis directly on the data stored in the database, providing the following benefits:
 
 - **Proximity to the data**: avoiding data extraction and reducing associated costs.
-- **Capabilities of modern DBMS**: handling and processing large volumes of data to improve efficiency and scalability.
 - **Model portability**: the use of standard languages, adopted by most relational DBMS, ensures the inferential logic of machine learning algorithms can be defined across different systems.
 
 # Work Description
