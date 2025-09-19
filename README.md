@@ -21,7 +21,7 @@ For each algorithm, two classes were developed to support different data represe
 
 These classes allow the training of machine learning models using Python's scikit-learn library and enable predictions to be made directly through SQL queries on data within the database. In essence, the package unlocks the potential of machine learning in an SQL environment, opening up new possibilities for data analysis and prediction within relational databases.
 
-# Technologies Used
+# Technologies
 
 During the project, I worked with the following technologies:
 
